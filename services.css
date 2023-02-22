@@ -1,0 +1,10 @@
+
+#services{
+    background-color: rgb(127, 6, 247);
+}
+#services .container .text-center .row .col-lg-4 mt-4 .card servicesText .card-body .card-text mt-3{
+    color: rgb(245, 238, 238);
+}
+#services .container .text-center{
+    color: #c80000;
+}
